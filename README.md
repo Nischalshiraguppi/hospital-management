@@ -13,7 +13,7 @@ How to run the Hospital Management System (HMS) Project
 
 6. Import hms.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/hospital (frontend)
+7.Run the script http://localhost/Hospital Management System Project (frontend)
 
 Login Details
 Login Details for admin : admin/Test@12345
