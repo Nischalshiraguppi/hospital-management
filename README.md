@@ -4,7 +4,7 @@ How to run the Hospital Management System (HMS) Project
 
 2. Extract the file and copy hospital folder
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+ 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -12,7 +12,7 @@ How to run the Hospital Management System (HMS) Project
 
 6. Import hms.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/hospital (frontend)
+ 7.Run the script http://localhost/hospital (frontend)
 
 Login Details
 Login Details for admin : admin/Test@12345
